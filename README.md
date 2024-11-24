@@ -3,7 +3,8 @@
 You can use the [editor on GitHub](https://github.com/masimminhas/Coursera-Test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## Muhammad Asim Minhas
+This line has been added to check the functionality of the git commit.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
